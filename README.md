@@ -1,1 +1,1 @@
-# verilog-code-for-16-bit-ALU
+# VHDL-code-for-16-bit-ALU
